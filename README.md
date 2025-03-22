@@ -78,7 +78,7 @@ a)	Reference: it is used to specify users to whom the permission apply <br>
 1.	u:  Owner  <br>
 2.	g: group member (users who are member of file group) <br>
 3.	o: others (users who are neither owner nor group member) <br>
-4.	a: all (all three of above) <br>
+4.	a: all (all three of above) <br><br>
 b)	Operator: it is used to specify how mode will be adjusted <br>
       There are 3 operators, we can specify: <br>
 1.	+:  It adds the specified mode to specified reference <br>
