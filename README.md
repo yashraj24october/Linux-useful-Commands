@@ -79,11 +79,12 @@ a)	Reference: it is used to specify users to whom the permission apply <br>
 2.	g: group member (users who are member of file group) <br>
 3.	o: others (users who are neither owner nor group member) <br>
 4.	a: all (all three of above) <br><br>
+
 b)	Operator: it is used to specify how mode will be adjusted <br>
       There are 3 operators, we can specify: <br>
 1.	+:  It adds the specified mode to specified reference <br>
 2.	-: It removes the specified mode from specified reference <br>
-3.	=: It specifies mode is permitted exact to specified reference. <br>
+3.	=: It specifies mode is permitted exact to specified reference. <br><br>
 c)	Mode: It is used to specify which permission is to be grated or removed from the specified reference. <br>
       There are 3 modes, we can specify: <br>
 1.	r: read mode (Permission to read the file) <br>
